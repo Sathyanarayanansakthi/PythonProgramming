@@ -16,9 +16,13 @@ print(b>a)
 print(b>c)
 
 #Less Than <
-
+print(b <a )
+print(a< b)
 
 #Greather than or equal >=
+print(b>=c)
 
 
 #Less than or equal <=
+print(b<=c)
+print(b<=a)
