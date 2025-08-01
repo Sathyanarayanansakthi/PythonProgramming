@@ -1,0 +1,1 @@
+# Check if a number lies between 10 and 100 (inclusive)
